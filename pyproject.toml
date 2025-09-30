@@ -1,5 +1,5 @@
 [project]
-name = "py_template"
+name = "temp-python-package"
 version = "0.0.1"
 authors = [
   { name="Eachan Johnson", email="eachan.johnson@crick.ac.uk" },
