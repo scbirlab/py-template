@@ -1,6 +1,7 @@
 # 🧐 duvida
 
-![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/scbirlab/py-template/python-publish.yml)
+![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/scbirlab/py-template/python-test.yml)
+![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/scbirlab/py-template/python-publish-test.yml)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py-template)
 ![PyPI](https://img.shields.io/pypi/v/py-template)
 
