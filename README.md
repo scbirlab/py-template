@@ -19,7 +19,7 @@ You can install the precompiled version directly using `pip`. You need to specif
 that you want to use:
 
 ```bash
-$ pip install py-template
+$ pip install temp-python-package
 ```
 
 ### From source

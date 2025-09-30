@@ -5,7 +5,7 @@
 Install the pre-compiled version from GitHub:
 
 ```bash
-$ pip install py-template
+$ pip install temp-python-package
 ```
 
 ## From source
