@@ -1,8 +1,8 @@
-# 🧐 duvida
+# 🧐 temp-python-package
 
 ![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/scbirlab/py-template/python-test.yml)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py-template)
-![PyPI](https://img.shields.io/pypi/v/py-template)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/temp-python-package)
+![PyPI](https://img.shields.io/pypi/v/temp-python-package)
 
 **py-template** is a template python package. 
 
